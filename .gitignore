@@ -1,0 +1,15 @@
+# executaveis gerados pelo make (Linux/WSL/macOS nao tem extensao)
+hello
+formas
+mover
+bola
+pong
+pong_lab
+
+# Windows
+*.exe
+
+# objetos e lixo de sistema
+*.o
+.DS_Store
+.vscode/
